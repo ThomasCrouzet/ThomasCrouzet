@@ -1,25 +1,50 @@
-# Thomas
+# Hi, I'm Thomas
 
-French software developer. Day to day I work as a **senior PHP / Symfony** developer. I also design and ship tools end to end, and I care as much about permissions, failure modes, and operations as about features.
+I'm a French software developer. I enjoy solving concrete problems and making
+things that are genuinely useful.
 
-This **public GitHub portfolio is recent**. The projects shown here were developed over time on my **personal self-hosted forge**, then prepared and published as a **selective public showcase**. They are not my full body of work. **GitHub creation dates are not the full development history.**
+I care about software that feels good to use and remains dependable behind
+the scenes. I pay attention to performance, privacy, permissions, failure
+handling, and clear documentation.
+
+I like understanding where time or resources are wasted, then making things
+smoother and more efficient.
+
+I enjoy working with people who share ideas openly, question assumptions,
+and care about the details.
+
+## Selected projects
+
+### [icloud-mcp](https://github.com/ThomasCrouzet/icloud-mcp)
+
+Connect an MCP client to iCloud Calendar, Contacts, and Mail through open
+protocols. Designed for headless use, with read-only defaults and explicit
+permissions for changes.
+
+### [DeckMark](https://github.com/ThomasCrouzet/deckmark)
+
+A local-first Markdown workspace for notes and presentations. Use it in your
+browser without an account, or explore the desktop edition.
+
+[Open DeckMark](https://www.deckmark.dev/) ·
+[Browse the source](https://github.com/ThomasCrouzet/deckmark)
+
+### [homelab-evidence-mcp](https://github.com/ThomasCrouzet/homelab-evidence-mcp)
+
+A read-only MCP server that brings together evidence from homelab services
+to help investigate incidents.
 
 ## How I work
 
-- **Problem first.** Start from a concrete need, ship a usable product, document setup and limits.
-- **Security by construction.** Least privilege, explicit allowlists, secrets out of the repo, irreversible actions constrained or confirmed.
-- **Agents with guardrails.** Tools for AI clients get bounded scope, clear defaults (often read-only), and audit-friendly behaviour.
-- **Honest scope.** Prototypes are labelled as such. Public projects aim for reproducible builds, tests or CI, and stated limitations.
+My day-to-day background is PHP and Symfony. I also work with Go, TypeScript,
+SvelteKit, PostgreSQL, and Docker.
 
-## Tooling
+I favour open protocols, tools I can operate myself, and sensible limits over
+features that promise more than they can reliably deliver.
 
-- **Core:** PHP, Symfony, PostgreSQL, SQL, Bash
-- **Also used in public work here:** TypeScript, Go, Python, SvelteKit, Docker Compose
-- **Infrastructure literacy:** Ansible, Caddy, Tailscale (as sources and targets in tooling, not as a product claim)
-- **AI integration (public):** MCP servers, agent tool design, least-privilege tool surfaces
+This GitHub is a selective public showcase. Some of my work lives on a
+self-hosted forge, so the dates here don't tell the whole story.
 
-Stack choices follow the problem. Defaults favour open protocols and components I can replace.
+## Get in touch
 
-## Contact
-
-**crouzet.thomas@proton.me**
+[crouzet.thomas@proton.me](mailto:crouzet.thomas@proton.me)
