@@ -18,8 +18,8 @@ and care about the details.
 My day-to-day background is PHP and Symfony. I also work with Go, TypeScript,
 SvelteKit, PostgreSQL, and Docker.
 
-I favour open protocols, tools I can operate myself, and sensible limits over
-features that promise more than they can reliably deliver.
+I take an open-source-first approach. I value open protocols and tools that
+people can understand, adapt, and run themselves.
 
 This GitHub is a selective public showcase. Some of my work lives on a
 self-hosted forge, so the dates here don't tell the whole story.
